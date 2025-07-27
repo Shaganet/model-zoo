@@ -6,4 +6,4 @@ Welcome to my personal circus of algorithms! 🎪
 This is where my "tame" linear regression models live.
 
 ### Current occupant:
-- **[Scooter Demand Forecast](regression-zoo/linear_regression_scooter.ipynb)**
+- **[Scooter Demand Forecast](regression-zoo/scooter_rental.ipynb)**
