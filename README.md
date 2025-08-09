@@ -11,7 +11,7 @@ This is where my "tame" linear regression models live. These models walk the fin
 
 * 🌟 **Star of the Show:**
  
-  - **[Scooter Tightrope](the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)** — predicts scooter rental demand, balancing on the edge between weather, season, and chaos. Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
+  - **[Scooter Tightrope](the-unknown/tightrope-regressors/scooter_rental.ipynb)** — predicts scooter rental demand, balancing on the edge between weather, season, and chaos. Trained on: **[Scooter Demand Dataset](data-den/day.csv)**  
 
 ---
 
@@ -23,7 +23,7 @@ They draw straight lines in feature space and say: "Here, the world divides."Fra
 
 
 * 🔮 **Spotlight on the Threshold:**  
-  - **[The Yes/No Oracle](model-zoo/classification⚖️/logistic-lanterns🕯️/)** - predicts whether your loan will be approved — based on income, history, and financial footprint. Trained on: **[Loan Applicant Records](data-den🕳️/loan_data.csv)**  
+  - **[The Yes/No Oracle](model-zoo/classification/logistic-lanterns/)** - predicts whether your loan will be approved — based on income, history, and financial footprint. Trained on: **[Loan Applicant Records](data-den/loan_data.csv)**  
     
 ---
 
@@ -33,7 +33,7 @@ Where models open their digital eyes for the first time. From blurry pixels to c
 
 * 🔭 **Spotlight on Vision:**
   
-  - **[The geometry of life](sight-spectacle👁️/the_first_microbe.ipynb)** — segments and analyzes the shape of single-celled organisms, identifying contours and surface area.Trained on: **[A party of protozoa](simplest-beasts🦠/IM0.jpg)**
+  - **[The geometry of life](sight-spectacle👁️/the_first_microbe.ipynb)** — segments and analyzes the shape of single-celled organisms, identifying contours and surface area.Trained on: **[A party of protozoa](simplest-beasts/IM0.jpg)**
     
 
 
