@@ -23,7 +23,7 @@ They draw straight lines in feature space and say: "Here, the world divides."Fra
 
 
 * 🔮 **Spotlight on the Threshold:**  
-  - **[The Yes/No Oracle](model-zoo/classification/logistic-lanterns/)** - predicts whether your loan will be approved — based on income, history, and financial footprint. Trained on: **[Loan Applicant Records](data-den/loan_data.csv)**  
+  - **[The Yes/No Oracle](classification/logistic-lanterns/Forecasting_the_loan_status.ipynb)** - predicts whether your loan will be approved — based on income, history, and financial footprint. Trained on: **[Loan Applicant Records](data-den/loan_data.csv)**  
     
 ---
 
