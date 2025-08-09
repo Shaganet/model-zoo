@@ -15,6 +15,21 @@ This is where my "tame" linear regression models live. These models walk the fin
 Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
 
 
+# classification⚖️
+
+
+* ## logistic-lanterns🕯️
+They draw straight lines in feature space and say: *"Here, the world divides."*  
+Fragile in complexity, yet noble in simplicity.
+
+
+* 🌟 **Spotlight on the Threshold:**  
+  - **[The Yes/No Oracle](model-zoo/classification⚖️/logistic-lanterns🕯️/)**  
+    
+    Trained on: **[Loan Applicant Records](data-den🕳️/loan_data.csv)**  
+    
+→ Act I: Regression | Act II: Classification | Act III: Vision →
+
 # sight-spectacle👁️
 Where models open their digital eyes for the first time.  
 From blurry pixels to clear forms, the journey begins here.
