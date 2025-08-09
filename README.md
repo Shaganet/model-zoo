@@ -2,7 +2,7 @@
 
 Step right up — where models perform, data dances, and overfitting is the greatest tragedy of all.
 
-#  the-unknown🌌
+# the-unknown🌌
 Something that cannot be classified.
 
 * ## tightrope-regressors🤹‍♂️
@@ -11,7 +11,7 @@ This is where my "tame" linear regression models live. These models walk the fin
 
 * 🌟 **Star of the Show:**
  
-  - **[Scooter Tightrope](model-zoo/the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)**
+  - **[Scooter Tightrope](model-zoo/the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)** — predicts scooter rental demand, balancing on the edge between weather, season, and chaos. 
 Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
 
 
@@ -22,7 +22,7 @@ From blurry pixels to clear forms, the journey begins here.
 
 * 🔭 **Spotlight on Vision:**
   
-  - **[The geometry of life](model-zoo/sight-spectacle👁️/the_first_microbe.ipynb)**
+  - **[The geometry of life](model-zoo/sight-spectacle👁️/the_first_microbe.ipynb)** — segments and analyzes the shape of single-celled organisms, identifying contours and surface area.
 Trained on: **[A party of protozoa](model-zoo/simplest-beasts🦠/IM0.jpg)**
     
 
