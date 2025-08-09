@@ -21,8 +21,10 @@ Where models open their digital eyes for the first time.
 From blurry pixels to clear forms, the journey begins here.
 
 
-*  **Spotlight on Vision:**
+* 🔭 **Spotlight on Vision:**
+  
   - **[The geometry of life](model-zoo/sight-spectacle👁️/the_first_microbe.ipynb)**
+  - 
      Trained on: **[A party of protozoa](model-zoo/simplest-beasts🦠/IM0.jpg)**
     
 A simple image of protists, but for the model it is a whole universe of shapes, facets and meaning.
