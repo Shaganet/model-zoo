@@ -33,7 +33,7 @@ Where models open their digital eyes for the first time. From blurry pixels to c
 
 * 🔭 **Spotlight on Vision:**
   
-  - **[The geometry of life](sight-spectacle👁️/the_first_microbe.ipynb)** — segments and analyzes the shape of single-celled organisms, identifying contours and surface area.Trained on: **[A party of protozoa](simplest-beasts/IM0.jpg)**
+  - **[The geometry of life](sight-spectacle/the_first_microbe.ipynb)** — segments and analyzes the shape of single-celled organisms, identifying contours and surface area.Trained on: **[A party of protozoa](simplest-beasts/IM0.jpg)**
     
 
 
