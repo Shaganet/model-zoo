@@ -28,7 +28,6 @@ Fragile in complexity, yet noble in simplicity.
     
     Trained on: **[Loan Applicant Records](data-den🕳️/loan_data.csv)**  
     
-→ Act I: Regression | Act II: Classification | Act III: Vision →
 
 # sight-spectacle👁️
 Where models open their digital eyes for the first time.  
