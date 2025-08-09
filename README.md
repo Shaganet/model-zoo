@@ -10,8 +10,10 @@ This is where my "tame" linear regression models live. These models walk the fin
 
 
 * 🌟 **Star of the Show:**
-  - **[Scooter Tightrope](model-zoo/the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)**  
-     Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
+* 
+  - **[Scooter Tightrope](model-zoo/the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)**
+   
+  -  Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
 
 
 # sight-spectacle👁️
