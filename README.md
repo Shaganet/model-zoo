@@ -1,3 +1,4 @@
+![Модели в зоопарке](https://img.shields.io/badge/Модели_в_зоопарке-12-forestgreen?logo=python&labelColor=black)
 **Welcome to my personal circus of algorithms! 🎪**
 
 Step right up — where models perform, data dances, and overfitting is the greatest tragedy of all.
