@@ -12,8 +12,7 @@ This is where my "tame" linear regression models live. These models walk the fin
 * 🌟 **Star of the Show:**
  
   - **[Scooter Tightrope](model-zoo/the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)**
-   
-  -  Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
+Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
 
 
 # sight-spectacle👁️
@@ -24,10 +23,9 @@ From blurry pixels to clear forms, the journey begins here.
 * 🔭 **Spotlight on Vision:**
   
   - **[The geometry of life](model-zoo/sight-spectacle👁️/the_first_microbe.ipynb)**
-  - 
-     Trained on: **[A party of protozoa](model-zoo/simplest-beasts🦠/IM0.jpg)**
+Trained on: **[A party of protozoa](model-zoo/simplest-beasts🦠/IM0.jpg)**
     
-A simple image of protists, but for the model it is a whole universe of shapes, facets and meaning.
+
 
 
 
