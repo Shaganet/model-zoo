@@ -19,8 +19,7 @@ Here, models learn to tell cats from dogs, moods from faces, risks from records.
 Every decision is a boundary. Every misstep — a misclassification in the spotlight.
 
 * ## logistic-lanterns🕯️
-They draw straight lines in feature space and say: *"Here, the world divides."*  
-Fragile in complexity, yet noble in simplicity.
+They draw straight lines in feature space and say: *"Here, the world divides."*Fragile in complexity, yet noble in simplicity.
 
 
 * 🔮 **Spotlight on the Threshold:**  
@@ -28,8 +27,7 @@ Fragile in complexity, yet noble in simplicity.
     
 
 # sight-spectacle👁️
-Where models open their digital eyes for the first time.  
-From blurry pixels to clear forms, the journey begins here.
+Where models open their digital eyes for the first time. From blurry pixels to clear forms, the journey begins here.
 
 
 * 🔭 **Spotlight on Vision:**
