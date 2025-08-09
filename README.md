@@ -11,7 +11,7 @@ This is where my "tame" linear regression models live. These models walk the fin
 
 * 🌟 **Star of the Show:**
  
-  - **[Scooter Tightrope](model-zoo/the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)** — predicts scooter rental demand, balancing on the edge between weather, season, and chaos. Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
+  - **[Scooter Tightrope](the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)** — predicts scooter rental demand, balancing on the edge between weather, season, and chaos. Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
 
 ---
 
