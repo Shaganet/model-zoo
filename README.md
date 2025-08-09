@@ -13,18 +13,20 @@ This is where my "tame" linear regression models live. These models walk the fin
  
   - **[Scooter Tightrope](model-zoo/the-unknown🌌/tightrope-regressors🤹‍♂️/scooter_rental.ipynb)** — predicts scooter rental demand, balancing on the edge between weather, season, and chaos. Trained on: **[Scooter Demand Dataset](data-den🕳️/day.csv)**  
 
+---
 
 # classification⚖️
 Here, models learn to tell cats from dogs, moods from faces, risks from records.  
 Every decision is a boundary. Every misstep — a misclassification in the spotlight.
 
 * ## logistic-lanterns🕯️
-They draw straight lines in feature space and say: *"Here, the world divides."*Fragile in complexity, yet noble in simplicity.
+They draw straight lines in feature space and say: "Here, the world divides."Fragile in complexity, yet noble in simplicity.
 
 
 * 🔮 **Spotlight on the Threshold:**  
   - **[The Yes/No Oracle](model-zoo/classification⚖️/logistic-lanterns🕯️/)** - predicts whether your loan will be approved — based on income, history, and financial footprint. Trained on: **[Loan Applicant Records](data-den🕳️/loan_data.csv)**  
     
+---
 
 # sight-spectacle👁️
 Where models open their digital eyes for the first time. From blurry pixels to clear forms, the journey begins here.
