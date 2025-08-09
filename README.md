@@ -16,8 +16,7 @@ This is where my "tame" linear regression models live. These models walk the fin
 ---
 
 # classification⚖️
-Here, models learn to tell cats from dogs, moods from faces, risks from records.  
-Every decision is a boundary. Every misstep — a misclassification in the spotlight.
+Here, models learn to tell cats from dogs, moods from faces, risks from records. Every decision is a boundary. Every misstep — a misclassification in the spotlight.
 
 * ## logistic-lanterns🕯️
 They draw straight lines in feature space and say: "Here, the world divides."Fragile in complexity, yet noble in simplicity.
