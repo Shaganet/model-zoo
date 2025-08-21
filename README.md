@@ -9,7 +9,7 @@ Something that cannot be classified.
 This is where my "tame" linear regression models live. These models walk the fine line between bias and variance — one misstep, and splash into the sea of error.
 
 
-* 🌟 **Star of the Show:**
+* 🌟 **Stars of the Show:**
  
   - **[Scooter Tightrope](the-unknown/tightrope-regressors/scooter_rental.ipynb)** — predicts scooter rental demand, balancing on the edge between weather, season, and chaos. Trained on: **[Scooter Demand Dataset](data-den/day.csv)**  
 
