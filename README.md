@@ -19,7 +19,8 @@ This is where my "tame" linear regression models live. These models walk the fin
 * ## neighbourhood-navigators🧭
 They don’t follow a formula — they walk through the data like ghosts of past decisions, finding patterns in the crowd. One step forward, one glance around — and suddenly, the future is revealed.
 
-  * 🕵️‍♂️ **Whisper from the Shadows:**  
+  * 🕵️‍♂️ **Whisper from the Shadows:**
+    
     - **[The Pattern Stalker]()** — It doesn’t predict — it listens. To the silence between sales, to the echo of promotions, to the hum of competitor prices. When the data speaks, it hears. Trained on: **[Retail Inventory Dynamics](data-den/sale_data.csv)**
 ---
 
