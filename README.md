@@ -14,7 +14,7 @@ This is where my "tame" linear regression models live. These models walk the fin
   - **[Scooter Tightrope](the-unknown/tightrope-regressors/scooter_rental.ipynb)** — predicts scooter rental demand, balancing on the edge between weather, season, and chaos. Trained on: **[Scooter Demand Dataset](data-den/day.csv)**  
 
 
-  - **[The Inventory Equilibrist]()** - Balancing stock levels with grace — one misstep, and the shelves collapse into chaos.  Trained on: **[Retail Inventory Dynamics]()
+  - **[The Inventory Equilibrist]()** - Balancing stock levels with grace — one misstep, and the shelves collapse into chaos.  Trained on: **[Retail Inventory Dynamics]()**
 ---
 
 # classification⚖️
